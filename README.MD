@@ -3,10 +3,15 @@
 *sigma = F/A*
 
 **Compression**
+
 **Tension**
+
 **Shear**
+
 **Bending**
+
 **Torsion**
+
 **Fatigue**
 
 ### Compression & Tension Stress
