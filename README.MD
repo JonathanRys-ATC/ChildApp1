@@ -1,6 +1,7 @@
 # Stresses
 
 Types of stresses:
+
 **Compression**
 
 **Tension**
