@@ -1,19 +1,13 @@
 # Stresses
 
-Types of stresses:
+#### Types of stresses:
 
-**Compression**
-
-**Tension**
-
-**Shear**
-
-**Bending**
-
-**Torsion**
-
-**Fatigue**
-
+* Compression
+* Tension
+* Shear
+* Bending
+* Torsion
+* Fatigue
 
 
 ### Compression & Tension Stress
